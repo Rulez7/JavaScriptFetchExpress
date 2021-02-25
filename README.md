@@ -18,6 +18,6 @@ npm install body-parser
 
 node ./src/server.js
 
-eller
+or
 
 nodemon ./src/server.js
