@@ -14,6 +14,8 @@ npm install -g nodemon
 
 npm install body-parser
 
+Also add "type": "module" to package.json file
+
 ### Start server:
 
 node ./src/server.js
