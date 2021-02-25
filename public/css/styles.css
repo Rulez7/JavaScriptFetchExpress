@@ -1,0 +1,21 @@
+.product-card-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+}
+
+.product-card img {
+    width: 100%;
+}
+
+.product-card > div {
+    display: flex;
+}
+
+.product-card span {
+    flex-grow: 1;
+}
+
+.product-card span.price {
+    text-align: right;
+}
