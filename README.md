@@ -1,4 +1,6 @@
-# Big Project
+# Fetch Express
+
+Fetch data for manipulation from server.js using express
 
 ## Terminal commands:
 
